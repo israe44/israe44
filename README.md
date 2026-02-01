@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm a full-stack developer who enjoys building projects.
+Hi, I'm a full-stack web developer who just enjoys building stuff from the ground.
 
 
 ## 🌐 Socials:
