@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm a full-stack web developer who just enjoys building stuff from the ground.
+#  About Me:
+Hello, I'm Israe a full-stack developer who just enjoys building stuff from the ground.
 
 
 
