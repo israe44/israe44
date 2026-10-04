@@ -16,7 +16,7 @@ Software Engineering Student
           <td>
             <h2> About Me</h2>
             I enjoy coding, building useful things, and exploring different technologies. <br><br>
-            📍  <b>Morocco</b>
+            📍  <b>Casablanca, Morocco</b>
           </td>
         </tr>
         <tr>
